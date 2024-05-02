@@ -1,0 +1,1 @@
+#### Repositório para atividades e estudos em imagens médicas e seu processamento geral em imagens
